@@ -1,0 +1,60 @@
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.cluster import KMeans
+
+def getData(fname):
+	global strList
+	global testData	
+	fh=open(fname,'r')
+	count=0
+	
+	tempList=[]
+	for line in fh:
+		line=line.strip()
+							
+		temp=line.strip().split(':')
+		if count<=900:		
+			if len(temp)>1:
+				temp=line[9:]	
+				strList.append(temp)
+		else:		
+			temp=line[9:]
+			if line.startswith("----"):
+				if len(tempList)>0:				
+					testData.append(tempList)
+				tempList=[]
+			else:
+				tempList.append(temp)
+		if line.startswith("----"):
+			count=count+1
+					
+#fnames=["DSTC1.txt","DSTC2.txt","DSTC3.txt"]
+fnames = ["DSTC1.txt"]
+strList=[]
+testData=[]
+
+
+for i in fnames:
+	getData(i)
+print len(strList),len(testData)
+print testData[-3]
+print testData[-3][1:-1]
+exit()
+
+vectorizer = CountVectorizer(analyzer = "word", tokenizer = None, preprocessor = None, stop_words = None, max_features = 5000)
+#train_data_features = vectorizer.fit_transform(strList)
+vec=vectorizer.fit(strList)
+vectorized=vec.transform(strList)
+
+km = KMeans(n_clusters=10, init='k-means++', max_iter=100, n_init=1)
+km.fit(vectorized)
+
+#labels = km.predict(train_data_features)
+#print len(labels)
+for i in range(len(testData)):
+	curList=testData[i]
+	curList=curList[1:-1]
+	test_data_features = vec.transform(curList)
+	#test_data_features = test_data_features.toarray()
+	labels = km.predict(test_data_features)
+	print labels
+	
