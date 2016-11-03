@@ -1,0 +1,2432 @@
+(dp0
+S's_1'
+p1
+(dp2
+S'Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?'
+p3
+I116
+sS'Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type .'
+p4
+I1
+ssS's_0'
+p5
+(dp6
+S"I'm sorry but there is no mediterranean restaurant in the west of town"
+p7
+I1
+sS"I'm sorry but there is no restaurant serving belgian food"
+p8
+I3
+sS"I'm sorry but there is no mediterranean restaurant in the north of town"
+p9
+I2
+sS"I'm sorry but there is no restaurant serving traditional food"
+p10
+I2
+sS"I'm sorry but there is no restaurant serving world food"
+p11
+I1
+sS"I'm sorry but there is no european restaurant in the east of town"
+p12
+I2
+sS'I am sorry but there is no other mexican restaurant that matches your request'
+p13
+I1
+sS"I'm sorry but there is no restaurant serving crossover food"
+p14
+I4
+sS"I'm sorry but there is no restaurant serving welsh food"
+p15
+I3
+sS"I'm sorry but there is no restaurant serving catalan food"
+p16
+I5
+sS"I'm sorry but there is no restaurant serving irish food"
+p17
+I2
+sS"I'm sorry but there is no restaurant serving english food"
+p18
+I5
+sS"I'm sorry but there is no restaurant serving jamaican food"
+p19
+I2
+sS"I'm sorry but there is no vietnamese restaurant in the north of town"
+p20
+I1
+sS"I'm sorry but there is no restaurant serving moderate mexican food"
+p21
+I1
+sS"I'm sorry but there is no spanish restaurant in the east of town"
+p22
+I1
+sS"I'm sorry but there is no restaurant serving polynesian food"
+p23
+I2
+sS"I'm sorry but there is no restaurant serving corsica food"
+p24
+I5
+sS"I'm sorry but there is no restaurant serving cuban food"
+p25
+I3
+sS'I am sorry but there is no other vietnamese restaurant that matches your request'
+p26
+I1
+sS"I'm sorry but there is no restaurant serving cheap lebanese food"
+p27
+I1
+sS"I'm sorry but there is no restaurant serving basque food"
+p28
+I2
+sS"I'm sorry but there is no restaurant serving kosher food"
+p29
+I2
+sS"I'm sorry but there is no restaurant serving bistro food"
+p30
+I1
+sS"I'm sorry but there is no restaurant serving scandinavian food"
+p31
+I5
+sS"I'm sorry but there is no restaurant serving christmas food"
+p32
+I1
+sS"I'm sorry but there is no restaurant serving russian food"
+p33
+I1
+sS"I'm sorry but there is no restaurant serving austrian food"
+p34
+I2
+sS"I'm sorry but there is no restaurant serving australasian food"
+p35
+I2
+sS"I'm sorry but there is no restaurant serving scottish food"
+p36
+I1
+sS"I'm sorry but there is no restaurant serving cheap seafood food"
+p37
+I1
+sS"I'm sorry but there is no restaurant serving cheap european food"
+p38
+I2
+sS"I'm sorry but there is no restaurant serving caribbean food"
+p39
+I2
+sS'I am sorry but there is no other french restaurant in the centre of town'
+p40
+I2
+sS"I'm sorry but there is no restaurant serving swedish food"
+p41
+I1
+sS"I'm sorry but there is no chinese restaurant in the west of town"
+p42
+I1
+sS"I'm sorry but there is no restaurant serving cheap japanese food"
+p43
+I3
+sS"I'm sorry but there is no restaurant serving persian food"
+p44
+I3
+sS"I'm sorry but there is no restaurant serving venetian food"
+p45
+I6
+sS"I'm sorry but there is no restaurant serving barbeque food"
+p46
+I3
+sS"I'm sorry but there is no restaurant serving moroccan food"
+p47
+I1
+ssS's_3'
+p48
+(dp49
+S'the cow pizza kitchen and bar serves gastropub food'
+p50
+I1
+sS'grafton hotel restaurant serves british food'
+p51
+I2
+sS'da vinci pizzeria serves italian food'
+p52
+I1
+sS'the gandhi serves indian food'
+p53
+I1
+sS'restaurant one seven serves british food'
+p54
+I1
+sS'Sorry would you like scandinavian or thai food?'
+p55
+I3
+sS'ask serves italian food'
+p56
+I2
+sS'the missing sock serves international food'
+p57
+I2
+sS'Sorry would you like polynesian or vietnamese food?'
+p58
+I1
+sS'the copper kettle serves british food'
+p59
+I1
+sS'nandos city centre serves portuguese food'
+p60
+I2
+sS'Can I help you with anything else?'
+p61
+I6
+sS'thanh binh serves vietnamese food'
+p62
+I3
+sS"Sorry, I can't hear you"
+p63
+I5
+sS'yu garden serves chinese food'
+p64
+I1
+sS'shiraz restaurant serves mediterranean food'
+p65
+I2
+sS'Sorry would you like vietnamese food or you dont care'
+p66
+I3
+sS'restaurant alimentum serves modern european food'
+p67
+I1
+sS'Sorry would you like asian oriental or christmas food?'
+p68
+I2
+sS'travellers rest serves british food'
+p69
+I1
+sS'la raza serves spanish food'
+p70
+I2
+sS'restaurant two two serves french food'
+p71
+I2
+sS'cotto serves british food'
+p72
+I1
+sS'Sorry would you like the east of town or you dont care'
+p73
+I1
+sS'bedouin serves african food'
+p74
+I2
+sS'dojo noodle bar serves asian oriental food'
+p75
+I1
+sS'Sorry would you like russian or korean food?'
+p76
+I1
+sS'yippee noodle bar serves asian oriental food'
+p77
+I2
+sS'loch fyne serves seafood food'
+p78
+I1
+sS'chiquito restaurant bar serves mexican food'
+p79
+I4
+sS'sala thong serves thai food'
+p80
+I1
+sS'What kind of food would you like?'
+p81
+I81
+sS'bangkok city serves thai food'
+p82
+I1
+sS'la tasca serves spanish food'
+p83
+I1
+sS'curry prince serves indian food'
+p84
+I1
+sS'Sorry would you like venetian or asian oriental food?'
+p85
+I1
+sS'little seoul serves korean food'
+p86
+I2
+sS'meze bar restaurant serves turkish food'
+p87
+I1
+ssS's_2'
+p88
+(dp89
+S'golden house serves chinese food in the cheap price range'
+p90
+I1
+sS'la raza is a great restaurant'
+p91
+I4
+sS'little seoul is in the expensive price range'
+p92
+I2
+sS'rice house serves chinese food in the cheap price range'
+p93
+I1
+sS'the good luck chinese food takeaway is in the expensive price range'
+p94
+I1
+sS'la raza is in the cheap price range'
+p95
+I2
+sS'meghna is a great restaurant'
+p96
+I2
+sS'the varsity restaurant serves international food in the moderate price range'
+p97
+I1
+sS'the gandhi is in the cheap price range'
+p98
+I1
+sS'pipasha restaurant is in the expensive price range'
+p99
+I1
+sS'saint johns chop house is a great restaurant'
+p100
+I1
+sS'royal spice is in the cheap price range'
+p101
+I1
+sS'dojo noodle bar serves asian oriental food in the cheap price range'
+p102
+I1
+sS'Sorry would you like something in the cheap price range or you dont care'
+p103
+I2
+sS'yippee noodle bar is in the moderate price range'
+p104
+I1
+sS'yippee noodle bar is a great restaurant'
+p105
+I1
+sS'fitzbillies restaurant serves british food in the expensive price range'
+p106
+I1
+sS'da vinci pizzeria is a great restaurant'
+p107
+I1
+sS'ask is in the cheap price range'
+p108
+I1
+sS'backstreet bistro is in the expensive price range'
+p109
+I1
+sS'bangkok city serves thai food in the expensive price range'
+p110
+I1
+sS'sala thong is in the expensive price range'
+p111
+I1
+sS'nandos city centre serves portuguese food in the cheap price range'
+p112
+I2
+sS'kohinoor is in the cheap price range'
+p113
+I1
+sS'kymmoy serves asian oriental food in the expensive price range'
+p114
+I1
+sS'cotto is in the moderate price range'
+p115
+I1
+sS'thanh binh is a great restaurant'
+p116
+I1
+sS'la raza serves spanish food in the cheap price range'
+p117
+I1
+sS'Ok , a restaurant in any part of town is that right?'
+p118
+I9
+sS'la mimosa serves mediterranean food in the expensive price range'
+p119
+I1
+sS'little seoul is a great restaurant'
+p120
+I2
+sS'grafton hotel restaurant is a great restaurant'
+p121
+I4
+sS'golden house is in the cheap price range'
+p122
+I1
+sS'curry prince serves indian food in the moderate price range'
+p123
+I1
+sS'rice house is in the cheap price range'
+p124
+I1
+sS'j restaurant serves asian oriental food in the cheap price range'
+p125
+I2
+sS'Would you like something in the cheap , moderate , or expensive price range?'
+p126
+I19
+sS'the good luck chinese food takeaway is a great restaurant'
+p127
+I1
+sS'the copper kettle is in the moderate price range'
+p128
+I1
+sS'Sorry would you like something in the east or in the south'
+p129
+I1
+sS'Sorry would you like something in the west or in the south'
+p130
+I1
+sS'don pasquale pizzeria serves italian food in the expensive price range'
+p131
+I1
+sS'meze bar restaurant is a great restaurant'
+p132
+I1
+sS'anatolia serves turkish food in the moderate price range'
+p133
+I1
+sS'restaurant one seven is a great restaurant'
+p134
+I1
+sS'the lucky star is a great restaurant'
+p135
+I1
+sS'restaurant one seven is in the moderate price range'
+p136
+I1
+sS'Sorry would you like something in the east or in the north'
+p137
+I2
+sS'loch fyne is a great restaurant'
+p138
+I1
+sS'thanh binh is in the cheap price range'
+p139
+I2
+sS'bedouin is in the expensive price range'
+p140
+I1
+sS'sala thong is a great restaurant'
+p141
+I1
+sS'the missing sock is a great restaurant'
+p142
+I1
+sS'prezzo is a great restaurant'
+p143
+I1
+sS'Sorry would you like something in the south or in the north'
+p144
+I1
+sS'ali baba serves lebanese food in the moderate price range'
+p145
+I1
+sS'cote is in the expensive price range'
+p146
+I1
+sS'golden wok is a great restaurant'
+p147
+I1
+sS'cote is a great restaurant'
+p148
+I2
+sS'chiquito restaurant bar is a great restaurant'
+p149
+I3
+sS'restaurant two two is a great restaurant'
+p150
+I1
+sS'the gandhi is a great restaurant'
+p151
+I1
+sS'rice house is a great restaurant'
+p152
+I3
+sS'j restaurant is a great restaurant'
+p153
+I1
+ssS's_5'
+p154
+(dp155
+S'Sure , nandos city centre is on 33-34 Saint Andrews Street'
+p156
+I4
+sS'Sure , meghna is on 205 Victoria Road Chesterton'
+p157
+I2
+sS'Sure , bangkok city is on 24 Green Street City Centre'
+p158
+I2
+sS'Sure , tandoori palace is on 68 Histon Road Chesterton'
+p159
+I1
+sS'Sure , shiraz restaurant is on 84 Regent Street City Centre'
+p160
+I2
+sS'Sure , the cow pizza kitchen and bar is on Corn Exchange Street'
+p161
+I1
+sS'Sure , thanh binh is on 17 Magdalene Street City Centre'
+p162
+I5
+sS'Sure , the missing sock is on Finders Corner Newmarket Road'
+p163
+I3
+sS'Sure , peking restaurant is on 10 Homerton Street City Centre'
+p164
+I1
+sS'Sure , curry prince is on 451 Newmarket Road Fen Ditton'
+p165
+I1
+sS'Sure , rice house is on 88 Mill Road City Centre'
+p166
+I1
+sS'Sure , pipasha restaurant is on Newmarket Road Fen Ditton'
+p167
+I2
+sS'Sure , yu garden is on 529 Newmarket Road Fen Ditton'
+p168
+I2
+sS'Sure , the lucky star is on Cambridge Leisure Park Clifton Way Cherry Hinton'
+p169
+I2
+sS'Sure , restaurant alimentum is on 152 - 154 Hills Road'
+p170
+I2
+sS'Sure , saigon city is on 169 High Street Chesterton Chesterton'
+p171
+I1
+sS'Sure , anatolia is on 30 Bridge Street City Centre'
+p172
+I1
+sS'Sure , maharajah tandoori restaurant is on 41518 Castle Street City Centre'
+p173
+I2
+sS'Sure , golden wok is on 191 Histon Road Chesterton'
+p174
+I2
+sS'Sure , saint johns chop house is on 21 - 24 Northampton Street'
+p175
+I3
+sS'Sure , chiquito restaurant bar is on 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton'
+p176
+I3
+sS'Sure , backstreet bistro is on 2 Sturton Street City Centre'
+p177
+I1
+sS'Sure , golden house is on 12 Lensfield Road City Centre'
+p178
+I1
+sS'Sure , the good luck chinese food takeaway is on 82 Cherry Hinton Road Cherry Hinton'
+p179
+I3
+sS'Sure , frankie and bennys is on Cambridge Leisure Park Clifton Way Cherry Hinton'
+p180
+I2
+sS'Sure , cote is on Bridge Street City Centre'
+p181
+I1
+sS'Sure , pizza hut cherry hinton is on G4 Cambridge Leisure Park Clifton Way Cherry Hinton'
+p182
+I2
+sS'Sure , rajmahal is on 7 Barnwell Road Fen Ditton'
+p183
+I1
+sS'Sure , restaurant two two is on 22 Chesterton Road Chesterton'
+p184
+I2
+sS'Sure , la raza is on 4 - 6 Rose Crescent'
+p185
+I3
+sS'Sure , grafton hotel restaurant is on Grafton Hotel 619 Newmarket Road Fen Ditton'
+p186
+I1
+sS'Sure , sala thong is on 35 Newnham Road Newnham'
+p187
+I1
+sS'Sure , the varsity restaurant is on 35 Saint Andrews Street City Centre'
+p188
+I1
+sS'Sure , bedouin is on 100 Mill Road City Centre'
+p189
+I2
+sS'Sure , cocum is on 71 Castle Street City Centre'
+p190
+I2
+sS'Sure , loch fyne is on The Little Rose 37 Trumpington Street'
+p191
+I1
+sS'Sure , meze bar restaurant is on 196 Mill Road City Centre'
+p192
+I1
+sS'Sure , la margherita is on 15 Magdalene Street City Centre'
+p193
+I1
+sS'Sure , da vinci pizzeria is on 20 Milton Road Chesterton'
+p194
+I4
+sS'Sure , la mimosa is on Thompsons Lane Fen Ditton'
+p195
+I1
+sS'Sure , dojo noodle bar is on 40210 Millers Yard City Centre'
+p196
+I2
+sS'Sure , ask is on 12 Bridge Street City Centre'
+p197
+I2
+sS'Sure , little seoul is on 108 Regent Street City Centre'
+p198
+I2
+sS'Sure , nandos is on Cambridge Leisure Park Clifton Way'
+p199
+I1
+sS'Sure , royal spice is on Victoria Avenue Chesterton'
+p200
+I1
+sS'Sure , j restaurant is on 86 Regent Street City Centre'
+p201
+I1
+sS'Sure , prezzo is on 21 - 24 Northampton Road'
+p202
+I2
+ssS's_4'
+p203
+(dp204
+S'The phone number of golden house is 01842 753771 and it is on 12 Lensfield Road City Centre .'
+p205
+I1
+sS'The post code of chiquito restaurant bar is C.B 1, 7 D.Y'
+p206
+I3
+sS'The phone number of nandos is 01223 327908 .'
+p207
+I1
+sS'The phone number of pizza hut fen ditton is 01223 323737 and its postcode is C.B 5, 8 W.R .'
+p208
+I1
+sS'The post code of yu garden is C.B 5, 8 P.A'
+p209
+I2
+sS'The phone number of chiquito restaurant bar is 01223 400170 .'
+p210
+I4
+sS'The phone number of the missing sock is 01223 812660 .'
+p211
+I1
+sS'The phone number of the cow pizza kitchen and bar is 01223 308871 .'
+p212
+I1
+sS'The post code of the varsity restaurant is C.B 2, 3 A.R'
+p213
+I1
+sS'The phone number of prezzo is 01799 521260 .'
+p214
+I2
+sS'The phone number of curry prince is 01223 566388 and its postcode is C.B 5, 8 J.J .'
+p215
+I1
+sS'The phone number of maharajah tandoori restaurant is 01223 358399 .'
+p216
+I2
+sS'The phone number of golden wok is 01223 350688 .'
+p217
+I2
+sS'The phone number of bangkok city is 01223 354382 .'
+p218
+I2
+sS'The phone number of la mimosa is 01223 362525 .'
+p219
+I1
+sS'The phone number of meghna is 01223 727410 .'
+p220
+I4
+sS'The phone number of taj tandoori is 01223 412299 .'
+p221
+I1
+sS'The phone number of nandos city centre is 01223 327908 .'
+p222
+I1
+sS'The phone number of curry prince is 01223 566388 .'
+p223
+I2
+sS'The post code of the good luck chinese food takeaway is C.B 1, 7 A.G'
+p224
+I1
+sS'The post code of da vinci pizzeria is C.B 4, 1 J.Y'
+p225
+I1
+sS'The phone number of ali baba is 01462 432565 and it is on 59 Hills Road City Centre .'
+p226
+I1
+sS'The phone number of j restaurant is 01223 307581 .'
+p227
+I1
+sS'The phone number of cocum is 01223 366668 .'
+p228
+I2
+sS'The post code of the cow pizza kitchen and bar is C.B 2, 3 Q.F'
+p229
+I1
+sS'The phone number of shiraz restaurant is 01223 307581 and its postcode is C.B 2, 1 D.P .'
+p230
+I1
+sS'The phone number of restaurant two two is 01223 351880 .'
+p231
+I1
+sS'The post code of shiraz restaurant is C.B 2, 1 D.P'
+p232
+I1
+sS'The phone number of saint johns chop house is 01223 353110 .'
+p233
+I2
+sS'The phone number of ask is 01223 364917 .'
+p234
+I2
+sS'The post code of dojo noodle bar is C.B 2, 1 R.Q'
+p235
+I1
+sS'The phone number of j restaurant is 01223 307581 and it is on 86 Regent Street City Centre .'
+p236
+I1
+sS'The phone number of the lucky star is 01223 244277 .'
+p237
+I3
+sS'The phone number of peking restaurant is 01223 354755 .'
+p238
+I1
+sS'The phone number of dojo noodle bar is 01223 363471 .'
+p239
+I1
+sS'The phone number of da vinci pizzeria is 01223 351707 .'
+p240
+I3
+sS'The phone number of golden house is 01842 753771 .'
+p241
+I1
+sS'The phone number of golden wok is 01223 350688 and its postcode is C.B 4, 3 H.L .'
+p242
+I1
+sS'The phone number of sala thong is 01223 323178 .'
+p243
+I2
+sS'The phone number of saigon city is 01223 356555 .'
+p244
+I1
+sS'The phone number of frankie and bennys is 01223 412430 .'
+p245
+I2
+sS'The phone number of restaurant alimentum is 01223 413000 .'
+p246
+I1
+sS'The phone number of thanh binh is 01223 362456 .'
+p247
+I2
+sS'The post code of prezzo is C.B 3, 0 A.D'
+p248
+I1
+sS'The post code of bedouin is C.B 1, 2 B.D'
+p249
+I1
+sS'The post code of rajmahal is C.B 5, 8 R.G'
+p250
+I1
+sS'The phone number of bedouin is 01223 367660 .'
+p251
+I1
+sS'The phone number of rice house is 01223 367755 .'
+p252
+I1
+sS'The phone number of pipasha restaurant is 01223 577786 .'
+p253
+I1
+sS'The phone number of tandoori palace is 01223 506055 .'
+p254
+I1
+sS'The post code of la raza is C.B 2, 3 L.L'
+p255
+I1
+sS'The phone number of la raza is 01223 464550 .'
+p256
+I1
+sS'The phone number of royal standard is 01223 247877 .'
+p257
+I1
+sS'The phone number of the good luck chinese food takeaway is 01223 244149 .'
+p258
+I3
+sS'The post code of meghna is C.B 4, 3 L.F'
+p259
+I1
+sS'The phone number of yu garden is 01223 248882 .'
+p260
+I3
+sS'The phone number of shiraz restaurant is 01223 307581 .'
+p261
+I1
+sS'The phone number of hakka is 01223 568988 .'
+p262
+I1
+sS'The phone number of kymmoy is 01223 311911 .'
+p263
+I1
+sS'The phone number of the missing sock is 01223 812660 and it is on Finders Corner Newmarket Road .'
+p264
+I1
+sS'The phone number of grafton hotel restaurant is 01223 241387 .'
+p265
+I2
+sS'The phone number of la margherita is 01223 315232 and it is on 15 Magdalene Street City Centre .'
+p266
+I1
+sS'The phone number of restaurant one seven is 01223 337766 .'
+p267
+I1
+sS'The phone number of fitzbillies restaurant is 01223 352500 .'
+p268
+I1
+sS'The phone number of yu garden is 01223 248882 and it is on 529 Newmarket Road Fen Ditton .'
+p269
+I2
+sS'The phone number of don pasquale pizzeria is 01223 350106 and it is on 12 Market Hill City Centre .'
+p270
+I1
+sS'The phone number of yippee noodle bar is 01223 518111 .'
+p271
+I1
+sS'The post code of sala thong is C.B 3, 9 E.Y'
+p272
+I1
+sS'The post code of frankie and bennys is C.B 1, 7 D.Y'
+p273
+I1
+sS'The phone number of pipasha restaurant is 01223 577786 and it is on Newmarket Road Fen Ditton .'
+p274
+I2
+sS'The phone number of maharajah tandoori restaurant is 01223 358399 and it is on 41518 Castle Street City Centre .'
+p275
+I1
+sS'The post code of peking restaurant is C.B 2, 8 N.X'
+p276
+I1
+ssS's_7'
+p277
+(dp278
+S'What part of town do you have in mind?'
+p279
+I65
+ssS's_6'
+p280
+(dp281
+S'restaurant alimentum is a nice place in the south of town and the prices are moderate'
+p282
+I3
+sS'golden wok is a nice place in the north of town serving tasty chinese food'
+p283
+I1
+sS'rajmahal is a nice place in the east of town and the prices are moderate'
+p284
+I3
+sS'tandoori palace is a nice place in the north of town'
+p285
+I1
+sS'pizza hut cherry hinton is a nice place in the south of town'
+p286
+I1
+sS'thanh binh is a nice place in the west of town and the prices are cheap'
+p287
+I4
+sS'yu garden is a nice place in the east of town and the prices are expensive'
+p288
+I3
+sS'taj tandoori is a nice place in the south of town serving tasty indian food'
+p289
+I1
+sS'peking restaurant is a nice place in the south of town'
+p290
+I1
+sS'kymmoy is a nice place in the centre of town'
+p291
+I1
+sS'ask is a nice place in the centre of town serving tasty italian food'
+p292
+I1
+sS'saigon city is a nice place in the north of town serving tasty asian oriental food'
+p293
+I1
+sS'curry prince is a nice place in the east of town'
+p294
+I1
+sS'peking restaurant is a nice place in the south of town and the prices are expensive'
+p295
+I1
+sS'the nirala is a nice place in the north of town and the prices are moderate'
+p296
+I1
+sS'royal standard is a nice place in the east of town and the prices are expensive'
+p297
+I3
+sS'the good luck chinese food takeaway is a nice place in the south of town and the prices are expensive'
+p298
+I4
+sS'da vinci pizzeria is a nice place in the north of town'
+p299
+I1
+sS'nandos city centre is a nice place in the centre of town serving tasty portuguese food'
+p300
+I1
+sS'nandos is a nice place in the south of town and the prices are cheap'
+p301
+I1
+sS'nandos is a nice place in the south of town serving tasty portuguese food'
+p302
+I1
+sS'pizza hut fen ditton is a nice place in the east of town and the prices are moderate'
+p303
+I1
+sS'pipasha restaurant is a nice place in the east of town'
+p304
+I2
+sS'cocum is a nice place in the west of town serving tasty indian food'
+p305
+I2
+sS'da vinci pizzeria is a nice place in the north of town and the prices are cheap'
+p306
+I4
+sS'grafton hotel restaurant is a nice place in the east of town and the prices are expensive'
+p307
+I2
+sS'sitar tandoori is a nice place in the east of town and the prices are expensive'
+p308
+I2
+sS'travellers rest is a nice place in the west of town'
+p309
+I2
+sS'saint johns chop house is a nice place in the west of town and the prices are moderate'
+p310
+I4
+sS'hakka is a nice place in the north of town serving tasty chinese food'
+p311
+I1
+sS'prezzo is a nice place in the west of town serving tasty italian food'
+p312
+I1
+sS'royal spice is a nice place in the north of town and the prices are cheap'
+p313
+I2
+sS'the good luck chinese food takeaway is a nice place in the south of town serving tasty chinese food'
+p314
+I1
+sS'meghna is a nice place in the north of town and the prices are moderate'
+p315
+I4
+sS'pizza hut fen ditton is a nice place in the east of town'
+p316
+I1
+sS'frankie and bennys is a nice place in the south of town and the prices are expensive'
+p317
+I5
+sS'golden wok is a nice place in the north of town and the prices are moderate'
+p318
+I4
+sS'pizza hut cherry hinton is a nice place in the south of town and the prices are moderate'
+p319
+I3
+sS'thanh binh is a nice place in the west of town serving tasty vietnamese food'
+p320
+I1
+sS'yippee noodle bar is a nice place in the centre of town'
+p321
+I1
+sS'cote is a nice place in the centre of town serving tasty french food'
+p322
+I1
+sS'yu garden is a nice place in the east of town serving tasty chinese food'
+p323
+I2
+sS'chiquito restaurant bar is a nice place in the south of town and the prices are expensive'
+p324
+I2
+sS'the missing sock is a nice place in the east of town and the prices are cheap'
+p325
+I3
+sS'don pasquale pizzeria is a nice place in the centre of town'
+p326
+I1
+sS'la margherita is a nice place in the west of town'
+p327
+I1
+sS'sala thong is a nice place in the west of town serving tasty thai food'
+p328
+I1
+sS'prezzo is a nice place in the west of town and the prices are moderate'
+p329
+I3
+sS'pipasha restaurant is a nice place in the east of town and the prices are expensive'
+p330
+I2
+sS'curry prince is a nice place in the east of town and the prices are moderate'
+p331
+I1
+sS'the lucky star is a nice place in the south of town and the prices are cheap'
+p332
+I3
+sS'sala thong is a nice place in the west of town'
+p333
+I2
+sS'maharajah tandoori restaurant is a nice place in the west of town'
+p334
+I1
+sS'la margherita is a nice place in the west of town and the prices are cheap'
+p335
+I2
+ssS's_9'
+p336
+(dp337
+S'Did you say you are looking for a restaurant in the centre of town?'
+p338
+I3
+sS'You are looking for a restaurant serving any kind of food right?'
+p339
+I5
+sS'You are looking for a persian restaurant right?'
+p340
+I1
+sS'Did you say you are looking for a restaurant in the west of town?'
+p341
+I3
+sS'You are looking for a australasian restaurant right?'
+p342
+I1
+sS'You are looking for a asian oriental restaurant right?'
+p343
+I2
+sS'You are looking for a scottish restaurant right?'
+p344
+I1
+sS'You are looking for a japanese restaurant right?'
+p345
+I1
+sS'Let me confirm , You are looking for a restaurant in the expensive price range right?'
+p346
+I1
+sS'Sorry I am a bit confused ; please tell me again what you are looking for .'
+p347
+I3
+sS'You are looking for a venetian restaurant right?'
+p348
+I1
+sS'You are looking for a english restaurant right?'
+p349
+I1
+sS'You are looking for a italian restaurant right?'
+p350
+I1
+sS'You are looking for a austrian restaurant right?'
+p351
+I1
+sS'You are looking for a catalan restaurant right?'
+p352
+I1
+sS'Let me confirm , You are looking for a restaurant in the cheap price range right?'
+p353
+I1
+sS'Did you say you are looking for a restaurant in the east of town?'
+p354
+I6
+sS'You are looking for a indian restaurant right?'
+p355
+I1
+sS'You are looking for a scandinavian restaurant right?'
+p356
+I1
+sS'You are looking for a thai restaurant right?'
+p357
+I1
+sS'You are looking for a vietnamese restaurant right?'
+p358
+I2
+sS'Let me confirm , You are looking for a restaurant and you dont care about the price range right?'
+p359
+I3
+sS'You are looking for a irish restaurant right?'
+p360
+I1
+ssS's_8'
+p361
+(dp362
+S'Sorry but there is no other restaurant in the cheap price range and the south of town'
+p363
+I1
+sS'maharajah tandoori restaurant is a nice place in the west of town serving tasty indian food'
+p364
+I4
+sS'saint johns chop house is a great restaurant serving moderate british food in the west of town .'
+p365
+I2
+sS'pipasha restaurant is a nice place in the east of town serving tasty indian food'
+p366
+I1
+ssS'u_3'
+p367
+(dp368
+S'can i get the phone number and area'
+p369
+I1
+sS'okay whats the phone number'
+p370
+I2
+sS'ok how about a restaurant and phone number'
+p371
+I1
+sS'may i have the phone number and post code'
+p372
+I1
+sS'id like to know the address phone number and post code'
+p373
+I1
+sS'uh whats the address and phone number'
+p374
+I1
+sS'could i get their phone number'
+p375
+I1
+sS'can i have the phone number please'
+p376
+I1
+sS'okay could you give me the phone number'
+p377
+I1
+sS'noise breath whats their phone number'
+p378
+I1
+sS'great whats the address and phone number'
+p379
+I1
+sS'can you give me the phone number'
+p380
+I1
+sS'the phone number'
+p381
+I1
+sS'whats the phone number'
+p382
+I14
+sS'i need the address and phone number'
+p383
+I1
+sS'whats the address and phone number'
+p384
+I4
+sS'can i get a phone number'
+p385
+I1
+sS'address phone number and post code'
+p386
+I1
+sS'kay can i get their phone number please'
+p387
+I1
+sS'and phone number please'
+p388
+I1
+sS'could i have the phone number'
+p389
+I1
+sS'what is the address and phone number'
+p390
+I4
+sS'can i have the address and phone number'
+p391
+I2
+sS'may i have a phone number and postcode'
+p392
+I1
+sS'phone number'
+p393
+I16
+sS'address phone number and type of food'
+p394
+I1
+sS'and the phone number'
+p395
+I5
+sS'whats the phone number and address'
+p396
+I2
+sS'may i get the address and phone number'
+p397
+I1
+sS'thank you can i have the address phone number'
+p398
+I1
+sS'may i get the phone number'
+p399
+I1
+sS'what is their phone number'
+p400
+I3
+sS'may i have the phone number and address'
+p401
+I1
+sS'kay can i get the phone number'
+p402
+I1
+sS'whats the phone number there'
+p403
+I1
+sS'can i have the address phone number and post code'
+p404
+I1
+sS'okay and ah can i get their phone number please'
+p405
+I1
+sS'phone number and price range'
+p406
+I1
+sS'can i have the phone number'
+p407
+I4
+sS'whats the address phone number and area'
+p408
+I1
+sS'could i have the address phone number and post code'
+p409
+I1
+sS'okay and uh the phone number'
+p410
+I1
+sS'what is the phone number'
+p411
+I5
+ssS'u_2'
+p412
+(dp413
+S'okay um well how bout portuguese'
+p414
+I1
+sS'asian oriental'
+p415
+I3
+sS'mexican'
+p416
+I1
+sS'chinese'
+p417
+I2
+sS'ah how bout an expensive one'
+p418
+I1
+sS'cheap'
+p419
+I1
+sS'yeah can i um'
+p420
+I1
+sS'moroccan'
+p421
+I1
+sS'belgium'
+p422
+I4
+sS'austrian'
+p423
+I2
+sS'yes'
+p424
+I22
+sS'um is there anything else'
+p425
+I1
+sS'vietnamese'
+p426
+I1
+sS'may i'
+p427
+I1
+sS'ah it doesnt matter'
+p428
+I1
+sS'no danish'
+p429
+I1
+sS'im looking'
+p430
+I2
+sS'ye'
+p431
+I1
+sS'catalan'
+p432
+I1
+sS'east part'
+p433
+I1
+sS'post code'
+p434
+I5
+sS'no portuguese'
+p435
+I1
+sS'can i get their address'
+p436
+I1
+sS'i want to find'
+p437
+I1
+sS'portuguese'
+p438
+I1
+sS'right'
+p439
+I1
+sS'i dont know'
+p440
+I1
+sS'mediterranean'
+p441
+I2
+sS'doesnt matter'
+p442
+I5
+sS'persian'
+p443
+I1
+sS'how bout thai'
+p444
+I2
+sS'anything house'
+p445
+I1
+sS'and ah'
+p446
+I1
+sS'um'
+p447
+I2
+sS'i dont care noise'
+p448
+I1
+sS'indian'
+p449
+I2
+sS'um it doesnt matter'
+p450
+I1
+sS'it doesnt matter'
+p451
+I11
+sS'thats fine'
+p452
+I1
+sS'moderate'
+p453
+I1
+sS'correct'
+p454
+I2
+sS'i dont care'
+p455
+I31
+sS'noise'
+p456
+I10
+sS'noise no'
+p457
+I1
+sS'noise may i have its address'
+p458
+I1
+sS'address'
+p459
+I19
+sS'cough'
+p460
+I2
+sS'and their address'
+p461
+I1
+sS'what is their post code'
+p462
+I2
+sS'british'
+p463
+I2
+sS'what do they serve'
+p464
+I1
+sS'uh no im loo ah change it to british'
+p465
+I1
+sS'no any area'
+p466
+I1
+sS'south'
+p467
+I6
+sS'any area'
+p468
+I4
+sS'okay ah how bout portuguese'
+p469
+I1
+sS'is there anything else'
+p470
+I15
+sS'moderately priced'
+p471
+I1
+sS'ah yes'
+p472
+I1
+sS'can i get a'
+p473
+I1
+sS'expensive'
+p474
+I8
+sS'whats his addre'
+p475
+I1
+sS'west'
+p476
+I4
+sS'something cheap'
+p477
+I1
+sS'north town'
+p478
+I1
+sS'danish'
+p479
+I2
+sS'kay and ah where is it located'
+p480
+I1
+sS'north'
+p481
+I2
+sS'okay is there another option'
+p482
+I1
+sS'ah centre'
+p483
+I1
+sS'serve'
+p484
+I1
+sS'okay and ah'
+p485
+I1
+sS'hi'
+p486
+I1
+sS'english please'
+p487
+I1
+sS'i want to know'
+p488
+I1
+sS'price range'
+p489
+I4
+sS'lebanese'
+p490
+I1
+sS'east'
+p491
+I3
+sS'is there on serving chineese'
+p492
+I1
+sS'scandinavian'
+p493
+I1
+sS'venetian'
+p494
+I1
+sS'jamaican'
+p495
+I1
+sS'uh'
+p496
+I1
+sS'i do not care'
+p497
+I1
+sS'and'
+p498
+I1
+sS'expensive expensive'
+p499
+I1
+sS'does it serve canapes'
+p500
+I1
+sS'any'
+p501
+I6
+sS'unintelligible'
+p502
+I7
+sS'no'
+p503
+I7
+sS'what area'
+p504
+I1
+sS'yes do you have one with chinese'
+p505
+I1
+sS'any part'
+p506
+I1
+sS'kay um'
+p507
+I1
+sS'korean'
+p508
+I1
+sS'sil'
+p509
+I4
+sS'dont care'
+p510
+I11
+sS'uh no preference'
+p511
+I1
+sS'okay'
+p512
+I1
+sS'umh i dont care noise'
+p513
+I1
+sS'a cheap'
+p514
+I1
+sS'what does rice house'
+p515
+I1
+sS'kay'
+p516
+I3
+sS'anything else'
+p517
+I2
+sS'center'
+p518
+I2
+sS'okay and ah wheres it located'
+p519
+I1
+sS'uh i dont mind'
+p520
+I1
+sS'can i'
+p521
+I1
+ssS'u_1'
+p522
+(dp523
+S'what kind of food do they serve'
+p524
+I4
+sS'what kind of food'
+p525
+I1
+sS'no north part of town'
+p526
+I1
+sS'what type of food does it serve'
+p527
+I1
+sS'what part of town'
+p528
+I1
+sS'and what type of food is that'
+p529
+I1
+sS'and what type of food'
+p530
+I1
+sS'type of food'
+p531
+I2
+sS'west part of town'
+p532
+I1
+sS'what kind of food does it serve'
+p533
+I1
+sS'what kind of food do they have'
+p534
+I1
+sS'what kind of food is it'
+p535
+I1
+sS'east part of town serving swedish food'
+p536
+I1
+sS'and what kind of food do they serve'
+p537
+I1
+sS'address and type of food'
+p538
+I1
+sS'what type of food'
+p539
+I5
+sS'type of food served'
+p540
+I1
+ssS'u_0'
+p541
+(dp542
+S'is there a restaurant serving thai food'
+p543
+I1
+sS'okay what about another restaurant'
+p544
+I1
+sS'is there a restaurant'
+p545
+I1
+sS'i would like to find a restaurant'
+p546
+I1
+sS'noise taquita restaurant'
+p547
+I1
+sS'i want a russian restaurant'
+p548
+I1
+sS'noise i want to find a restaurant that serve french food'
+p549
+I1
+sS'can i find a expensive restaurant that serves welsh food'
+p550
+I1
+sS'i want to find a cheap restaurant'
+p551
+I1
+sS'i want to find a moderately priced restaurant'
+p552
+I1
+sS'noise i want to find a restaurant that ser'
+p553
+I1
+sS'is there a restaurant serving italian food'
+p554
+I1
+sS'cheap restaurant serving asian oriental'
+p555
+I1
+sS'moderately priced restaurant in the east'
+p556
+I1
+sS'cheap restaurant serving scandinavian food'
+p557
+I1
+sS'a cheap restaurant'
+p558
+I1
+sS'cheap restaurant'
+p559
+I4
+sS'restaurant with scandin'
+p560
+I1
+sS'unintelligible restaurant'
+p561
+I1
+sS'i want an expensive irish restaurant'
+p562
+I1
+sS'a restaurant'
+p563
+I1
+sS'ah yes can i get a restaurant that serves french food'
+p564
+I1
+sS'uh yes can i find an expensive restaurant that serves italian food'
+p565
+I1
+sS'a restaurant that serves scandinavian food'
+p566
+I1
+sS'id like a barbecue restaurant'
+p567
+I1
+sS'ah can i find a unintelligible restaurant serving scotch food'
+p568
+I1
+sS'can i find a restaurant with gastropub food'
+p569
+I1
+sS'i am looking fora restaurant that should serve'
+p570
+I1
+sS'uh expensive restaurant in the south'
+p571
+I1
+sS'an expensive italian restaurant'
+p572
+I1
+sS'i need to find a moderately priced restaurant'
+p573
+I1
+sS'spanish restaurant'
+p574
+I1
+sS'okay how about a moderately prices restaurant that serves'
+p575
+I1
+ssS'u_7'
+p576
+(dp577
+S'kind i have the address'
+p578
+I1
+sS'can i have the post code'
+p579
+I1
+sS'what is the area'
+p580
+I1
+sS'okay what is the address'
+p581
+I1
+sS'can i get the address'
+p582
+I1
+sS'okay and can i get their address'
+p583
+I1
+sS'what is their address'
+p584
+I1
+sS'may i have the address and post code'
+p585
+I1
+sS'the north'
+p586
+I1
+sS'whats the post code'
+p587
+I1
+sS'the south part'
+p588
+I1
+sS'okay might i have the address'
+p589
+I1
+sS'okay and whats the addre'
+p590
+I1
+sS'in the north part'
+p591
+I1
+sS'okay and ah whats the price range'
+p592
+I1
+sS'what the addre'
+p593
+I1
+sS'what is the address'
+p594
+I11
+sS'what about the address'
+p595
+I1
+sS'the west'
+p596
+I1
+sS'okay can i have the address'
+p597
+I1
+sS'and what is the post code'
+p598
+I1
+sS'whats the price range'
+p599
+I1
+sS'okay and what about the address'
+p600
+I1
+sS'could i have the address please'
+p601
+I1
+sS'okay and whats the post code'
+p602
+I1
+sS'okay and uh can i get the address'
+p603
+I1
+sS'what is the price range'
+p604
+I1
+sS'may i have the postcode'
+p605
+I1
+sS'uh the north'
+p606
+I1
+sS'noise i dont care about the price range'
+p607
+I1
+sS'and what is the price range'
+p608
+I1
+sS'whats the address'
+p609
+I17
+sS'um i dont care about the price'
+p610
+I1
+sS'what is the signature dish'
+p611
+I1
+sS'and the post code'
+p612
+I1
+sS'the address'
+p613
+I2
+sS'okay what is their address'
+p614
+I1
+sS'okay i need the address'
+p615
+I1
+sS'uh whats the address'
+p616
+I1
+sS'what is la margheritas address'
+p617
+I1
+sS'ah whats the price ran'
+p618
+I1
+sS'whats the signature dish'
+p619
+I1
+sS'what is the post code'
+p620
+I2
+sS'what is the addre'
+p621
+I1
+sS'can i have the address'
+p622
+I6
+sS'and can i have the post code'
+p623
+I1
+sS'the adra'
+p624
+I1
+sS'whats their address'
+p625
+I1
+sS'what the address'
+p626
+I1
+sS'i want to know the address and the'
+p627
+I1
+sS'and the address'
+p628
+I4
+sS'the postcode'
+p629
+I1
+sS'and the postal code'
+p630
+I1
+ssS'u_6'
+p631
+(dp632
+S'im looking for a cheap restaurant that serves cuban food'
+p633
+I1
+sS'im looking for a restaurant in any area'
+p634
+I1
+sS'im looking for an expensive restaurant with venetian food'
+p635
+I1
+sS'im looking for a moderately priced restaurant that serves uh'
+p636
+I1
+sS'hi im looking for a restaurant in the'
+p637
+I1
+sS'im looking for'
+p638
+I1
+sS'im looking for an expensive restaurant'
+p639
+I1
+sS'ah yes im looking for persian food though'
+p640
+I1
+sS'yes good afternoon im looking for a restaurant in the north'
+p641
+I1
+sS'im looking for indian food'
+p642
+I1
+sS'im looking for european food'
+p643
+I1
+sS'yea im looking for a restaurant that serves basque food'
+p644
+I1
+sS'im looking for a restaurant that serves'
+p645
+I2
+sS'im looking for polynesian food'
+p646
+I1
+sS'ah yes im looking for persian food and i dont care about the pri'
+p647
+I1
+sS'uh im looking for a moderately priced restaurant serving'
+p648
+I1
+sS'im looking for a cheap restaurant it should serve japanese food'
+p649
+I1
+sS'im looking for a moderately priced restaurant in the north'
+p650
+I1
+sS'im looking for a restaurant that serves corsica food'
+p651
+I1
+sS'im looking for a turkish restaurant'
+p652
+I1
+sS'chinese food im looking for sea food'
+p653
+I1
+sS'hello im looking for a cheap'
+p654
+I1
+sS'no im looking for a unintelligible that serves english food'
+p655
+I1
+sS'im looking for a cheap spanish restaurant'
+p656
+I1
+sS'im looking for a restaurant with thai type'
+p657
+I1
+sS'hi im looking for a place that serves scandinavian food'
+p658
+I1
+sS'im looking for a restaurant that serves african food'
+p659
+I1
+sS'im looking for a cheap restaurant serving kosher food'
+p660
+I1
+sS'im looking for a restaurant'
+p661
+I1
+sS'im looking for a moderately priced restaurant that serves canapes'
+p662
+I1
+sS'im looking for a moderately priced restaurant that serves'
+p663
+I1
+sS'okay im looking for moderate price range'
+p664
+I1
+sS'im looking for unintelligible food'
+p665
+I1
+sS'im looking for an expensive restaurant that serves english food'
+p666
+I1
+sS'im looking for a moderately priced restaurant'
+p667
+I1
+sS'im looking for an expensive restaurant in the east'
+p668
+I1
+ssS'u_5'
+p669
+(dp670
+S'thank you'
+p671
+I5
+sS'okay ah i think thatll do it thank you and goodbye'
+p672
+I1
+sS'good bye'
+p673
+I2
+sS'can i okay thank you'
+p674
+I1
+sS'okay thank you and good bye'
+p675
+I2
+sS'okay thank you good bye'
+p676
+I4
+sS'thank you good bye'
+p677
+I87
+sS'you good bye'
+p678
+I1
+sS'great thank you goodbye'
+p679
+I1
+sS'thank you and goodbye'
+p680
+I1
+sS'thank you goodbye'
+p681
+I12
+sS'okay uh thank you and good bye'
+p682
+I1
+sS'great thank you good bye'
+p683
+I1
+sS'noise thank you goodbye'
+p684
+I1
+sS'okay thank you and goodbye'
+p685
+I1
+sS'okay uh thank you and goodbye'
+p686
+I1
+ssS'u_4'
+p687
+(dp688
+S'im looking for a cheap restaurant in the east part of town'
+p689
+I1
+sS'im looking for a welsh restaurant in the west part of town'
+p690
+I1
+sS'restaurant in the south part of town'
+p691
+I1
+sS'for an expensive restaurant in the east part of town'
+p692
+I1
+sS'im looking for an expensive restaurant in the south part of town'
+p693
+I1
+sS'im looking for a moderately priced restaurant in the west part of town'
+p694
+I1
+sS'im looking for a restaurant in the south part of town serving'
+p695
+I1
+sS'hello im looking for a cheap restaurant in the west part of town'
+p696
+I1
+sS'im looking for a restaurant in the east part of town that serves traditional food'
+p697
+I1
+sS'im looking for restaurants in the east part of town'
+p698
+I1
+sS'is there a restaurant in the south part of town that serves indian food'
+p699
+I1
+sS'im looking for a cheap restaurant on the north side of town'
+p700
+I1
+sS'im looking for a restaurant in the south part of town that serves'
+p701
+I1
+sS'im looking for a moderately priced restaurant and it should be in the west part of town'
+p702
+I1
+sS'expensive restaurant south part of town'
+p703
+I1
+sS'im looking for a cheap restaurant in the south part of town'
+p704
+I1
+sS'im looking for a moderately priced restaurant in the west part'
+p705
+I1
+sS'hi im looking for a restaurant in the east art of town'
+p706
+I1
+sS'im looking for a moderately priced restaurant in the south part of town'
+p707
+I2
+sS'i want a polynesian restaurant in the west part of town'
+p708
+I1
+sS'im looking for a cheap restaurant in the south of town'
+p709
+I1
+sS'im looking for an expensive restaurant in the east part of town'
+p710
+I3
+sS'im looking for a restaurant in the west part of town'
+p711
+I1
+sS'is there an asian oriental restaurant in the north part of town'
+p712
+I1
+sS'looking for a cheap restaurant in the north part of town'
+p713
+I1
+sS'ah yes can i get ah expensive restaurant in the south part of town'
+p714
+I1
+sS'im looking for a restaurant in the south part of town'
+p715
+I1
+sS'im looking for moderately priced restaurant in the north part'
+p716
+I1
+sS'an expensive restaurant in the east part of town'
+p717
+I1
+sS'in the east part of town'
+p718
+I2
+sS'restaurant in the west part of town serving moroccan food'
+p719
+I1
+sS'im looking for a cheap restaurant in the north part of town'
+p720
+I1
+sS'looking for a moderately priced restaurant in the east part of town'
+p721
+I1
+sS'a restaurant in the west part of town should serve crossover food'
+p722
+I1
+sS'im looking for a moderately priced restaurant in the north part of town'
+p723
+I2
+sS'moderately priced restaurant in the north part of town'
+p724
+I1
+sS'i want to find a cheap restaurant in the south part of town'
+p725
+I1
+sS'uh yes i want to find a restaurant in the north part of town that serves'
+p726
+I1
+sS'im looking for a moderate priced restaurant in the south part'
+p727
+I1
+sS'danish food in the south part of town'
+p728
+I1
+sS'the north part of town'
+p729
+I1
+sS'in the north part of town'
+p730
+I2
+sS'crossover food in the north part of town'
+p731
+I1
+sS'i want a cheap restaurant in the east part of town'
+p732
+I1
+sS'im looking for a cheap restaurant in the west part of'
+p733
+I1
+sS'im looking for a restaurant in the west part of town and it sh'
+p734
+I1
+sS'im looking for a barbecue restaurant in the east part of town'
+p735
+I1
+sS'im looking for a cheap restaurant in the west part of town'
+p736
+I2
+sS'im looking for vietnamese food in the north part of town'
+p737
+I1
+ssS'u_9'
+p738
+(dp739
+S'scandinavian food'
+p740
+I1
+sS'okay ah how bout portuguese food'
+p741
+I1
+sS'bistro food'
+p742
+I1
+sS'jamaican food'
+p743
+I1
+sS'caribbean food'
+p744
+I1
+sS'chinese food'
+p745
+I4
+sS'venetian food'
+p746
+I1
+sS'okay uh how bout british food'
+p747
+I1
+sS'international type food'
+p748
+I1
+sS'persian food'
+p749
+I1
+sS'i want spanish food'
+p750
+I1
+sS'vietnamese food'
+p751
+I1
+sS'no i want belgium food'
+p752
+I1
+sS'gastropub food'
+p753
+I1
+sS'any food'
+p754
+I1
+sS'expensive food'
+p755
+I1
+sS'corsica food'
+p756
+I1
+sS'how bout thai food'
+p757
+I2
+sS'mexican food'
+p758
+I3
+sS'no english food'
+p759
+I1
+sS'sea food'
+p760
+I5
+sS'christmas food'
+p761
+I1
+sS'food'
+p762
+I2
+sS'korean food'
+p763
+I1
+sS'catalan food'
+p764
+I1
+sS'yes danish food'
+p765
+I1
+sS'indian food'
+p766
+I1
+sS'is there one with thai food'
+p767
+I1
+sS'do you have any asian oriental food'
+p768
+I1
+sS'yes that serves corsica food'
+p769
+I1
+sS'belgium food'
+p770
+I1
+sS'international food'
+p771
+I1
+sS'lebanese food'
+p772
+I1
+sS'moroccan food'
+p773
+I1
+sS'do they serve unintelligible food'
+p774
+I2
+sS'spanish food'
+p775
+I2
+sS'asian oriental food'
+p776
+I2
+sS'i dont want vietnamese food'
+p777
+I1
+sS'portuguese food'
+p778
+I2
+sS'ah scottish food'
+p779
+I1
+sS'eritrean food'
+p780
+I1
+sS'is there mediterranean food'
+p781
+I1
+sS'ah yes that serves french food'
+p782
+I1
+sS'thai food'
+p783
+I2
+sS'i want mediterranean food'
+p784
+I1
+sS'okay and they serve portuguese food correct'
+p785
+I1
+sS'mediterranean food'
+p786
+I1
+sS'world food'
+p787
+I1
+sS'eritrean food noise'
+p788
+I1
+ssS'u_8'
+p789
+(dp790
+S'how about'
+p791
+I1
+sS'how about the west area'
+p792
+I1
+sS'how about a different restaurant'
+p793
+I1
+sS'how about unintelligible'
+p794
+I1
+sS'how about chinese'
+p795
+I1
+sS'um how about italian food'
+p796
+I1
+sS'how about chinese food'
+p797
+I2
+sS'what about portuguese food'
+p798
+I1
+sS'what about thai food'
+p799
+I2
+sS'how about asian oriental food'
+p800
+I1
+sS'how about asian oriental type of food'
+p801
+I1
+sS'how about vietnamese'
+p802
+I2
+sS'how about indian food'
+p803
+I4
+sS'breath noise how about french food'
+p804
+I1
+sS'how about spanish food'
+p805
+I1
+sS'what about spanish food'
+p806
+I2
+sS'how about asian oriental'
+p807
+I1
+sS'how about asian food'
+p808
+I1
+sS'what about chinese food'
+p809
+I4
+sS'okay how about any part of town'
+p810
+I1
+sS'how about an indian type food restaurant'
+p811
+I1
+sS'okay how about any area'
+p812
+I1
+sS'what about chineese'
+p813
+I1
+sS'how about one that serves portuguese food'
+p814
+I1
+sS'what about chinese'
+p815
+I1
+sS'what about vietnamese'
+p816
+I1
+sS'how about a korean restaurant'
+p817
+I1
+sS'how about moroccan food'
+p818
+I3
+sS'what about indian'
+p819
+I1
+sS'how about indian'
+p820
+I2
+sS'how about one with thai food'
+p821
+I1
+sS'how about a turkish restaurant'
+p822
+I1
+sS'how about portuguese'
+p823
+I1
+sS'how about vietnamese food'
+p824
+I1
+sS'what about mediterranean food'
+p825
+I2
+sS'what about persian food'
+p826
+I1
+sS'what about indian food'
+p827
+I1
+sS'how about gastropub food'
+p828
+I1
+sS'how about the post code'
+p829
+I1
+sS'how about an indian restaurant'
+p830
+I1
+ss.
