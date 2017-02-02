@@ -55,16 +55,25 @@ vectorized_system=vec_system.transform(systemList)
 vectorizer_user = CountVectorizer(analyzer = "word", tokenizer = None, preprocessor = None, stop_words = None, max_features = 5000)
 vec_user=vectorizer_user.fit(userList)
 vectorized_user=vec_user.transform(userList)
+<<<<<<< HEAD
 
 km_system = KMeans(n_clusters=10, init='k-means++', max_iter=100, n_init=1)
 km_system.fit(vectorized_system)
 
+=======
+
+km_system = KMeans(n_clusters=10, init='k-means++', max_iter=100, n_init=1)
+km_system.fit(vectorized_system)
+
+>>>>>>> 8b80d3b548510e1dfe79a545d40df85aeb62066b
 km_user = KMeans(n_clusters=10, init='k-means++', max_iter=100, n_init=1)
 km_user.fit(vectorized_user)
 
 #labels = km.predict(train_data_features)
 #print len(labels)
 
+<<<<<<< HEAD
+=======
 #data structures for getiing cluster transition frequencies
 
 clusterDict={}
@@ -73,6 +82,7 @@ clusterDict={}
 #cluster names s1 for cluster 1 in system model, u1 for cluster 1 in user model
 sentenceDict={}
 
+>>>>>>> 8b80d3b548510e1dfe79a545d40df85aeb62066b
 for i in range(len(testData)):
 	print "\n\n******************************"
 	curList=testData[i]
@@ -87,6 +97,11 @@ for i in range(len(testData)):
 
 	#test_data_features = vec.transform(curList)
 	#labels = km.predict(test_data_features)
+<<<<<<< HEAD
+	system_features=vec_system.transform(systemConv)
+	system_labels=km_system.predict(system_features)
+	print system_labels
+=======
 
 
 
@@ -95,6 +110,7 @@ for i in range(len(testData)):
 	system_labels=km_system.predict(system_features)
 	print system_labels
 
+>>>>>>> 8b80d3b548510e1dfe79a545d40df85aeb62066b
 	
 	user_features=vec_user.transform(userConv)
 	user_labels=km_user.predict(user_features)
@@ -103,6 +119,13 @@ for i in range(len(testData)):
 	k=0
 	while j<len(system_labels) and k<len(user_labels):
 		print system_labels[j],user_labels[k],
+<<<<<<< HEAD
+		j=j+1
+		k=k+1
+	if j<len(system_labels):
+	 	print system_labels[j],
+	print 
+=======
 		
 
 		#populate cluster dictionary
@@ -181,6 +204,7 @@ pkl_file.close()
 	#if j<len(system_labels):
 	# 	print system_labels[j],
 	#print 
+>>>>>>> 8b80d3b548510e1dfe79a545d40df85aeb62066b
 	
 	
 	
